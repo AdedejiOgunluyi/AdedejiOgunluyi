@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi there, I'm Adedeji, Deji for short!
 
-<!--
-**AdedejiOgunluyi/AdedejiOgunluyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 **I am a Power Platform Developer**
+- 🌱 I’m currently learning SQL and Python
+- 👯 I’m looking to collaborate on Data Analysis and Power Platform Projects
+- 💬 Ask me about Excel, Power BI, Power Apps and Power Automate
+- 📫 How to reach me: Email: adedejiogunluyi@outlook.com,
+                       LinkedIn: www.linkedin.com/in/adedeji-ogunluyi                    
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a Petroleum Engineer by Day, and a Developer by night!
 -->
+
+Skills:
+- Power Apps development
+- Power Automate development
+- Power BI development
+- Micorsoft Excel
+- Data Analysis and Data Visualization
